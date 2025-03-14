@@ -7,6 +7,8 @@ Hello, my name is Jhonatan 👋
 
 I am a back end programmer with a passion for creating robust and efficient solutions for complex challenges, always valuing the principles of clean architecture. At 23 years old and with a mindset focused on continuous learning, I am constantly exploring new technologies and improving my skills to offer the best in software development.
 
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=jhonatanWesterhofen)
+
 ## Tools and Technologies
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
