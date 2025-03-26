@@ -2,10 +2,12 @@
 
 Hello, my name is Jhonatan 👋
 
-* Graduated in software engineering
-* I work as a back-end developer
+* Formado em Engenharia de software
 
-I am a back end programmer with a passion for creating robust and efficient solutions for complex challenges, always valuing the principles of clean architecture. At 23 years old and with a mindset focused on continuous learning, I am constantly exploring new technologies and improving my skills to offer the best in software development.
+I am a technology professional working as a Java Developer, focused on creating and maintaining robust solutions.
+With a degree in Software Engineering, I have a solid foundation for developing scalable and efficient systems.
+My experience is centered on the development of large-scale microservices, where I prioritize clean, secure, and intelligent code aligned with the principles of clean architecture.
+I actively participate in sprint planning and the definition of technologies used, ensuring high-quality deliveries tailored to the project's needs.
 
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=jhonatanWesterhofen)
 
@@ -19,6 +21,12 @@ I am a back end programmer with a passion for creating robust and efficient solu
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"  />
+          
+          
+          
 
 ## Contatos:
 
