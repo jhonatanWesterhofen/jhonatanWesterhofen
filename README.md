@@ -2,8 +2,6 @@
 
 Hello, my name is Jhonatan 👋
 
-* Formado em Engenharia de software
-
 I am a technology professional working as a Java Developer, focused on creating and maintaining robust solutions.
 With a degree in Software Engineering, I have a solid foundation for developing scalable and efficient systems.
 My experience is centered on the development of large-scale microservices, where I prioritize clean, secure, and intelligent code aligned with the principles of clean architecture.
